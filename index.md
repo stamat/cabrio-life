@@ -4,14 +4,6 @@ title: Cabrio Life
 description: The adventures of white Yugo Cabrio.
 ---
 
-# {{ page.title }}
+# {{ page.description }}
 
-{{ page.description }}
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<small style="font-size: 26px; margin-top: 32px; display: block;">Comming soon...</small>

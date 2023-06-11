@@ -6,11 +6,11 @@
       {% include header.html %}
 
       <main style="text-align: center;">
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/logo.svg" height="542" width="812" alt="{{ site.title }}" style="width: 100%; max-width: 480px; height: auto;" />
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/logo.svg" height="542" width="812" alt="{{ site.title }}" style="width: 100%; max-width: 480px; height: auto; margin-bottom: 32px;;" />
         {{ content }}
-      </main>
 
-      {% include footer.html %}
+        {% include footer.html %}
+      </main>
     </div>
   </body>
 </html>

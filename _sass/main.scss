@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 html {
   background: url(../images/patt.png) repeat;
 }
@@ -7,6 +11,12 @@ body {
   margin: 0;
   min-height: 100vh;
   background: url(../images/pattern.jpg) repeat;
+
+  font-family: 'Cormorant Garamond', serif;
+}
+
+small {
+  font-family: 'Big Shoulders Display', sans-serif;
 }
 
 main {
@@ -14,4 +24,23 @@ main {
   margin: 32px;
   border: 3px solid black;
   padding: 32px;
+
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  min-height: calc(100vh - 64px);
+}
+
+footer {
+  margin-top: auto;
+  padding-top: 32px;
+}
+
+
+h1 {
+  font-size: 6rem;
+  line-height: 1;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
 }
