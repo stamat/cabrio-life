@@ -1,2 +1,2 @@
-# cabrio-life
-The adventures of the white Yugo Cabrio
+# Stamat's Jekyll Boilerplate
+Just a simple Jekyll Boilerplate
