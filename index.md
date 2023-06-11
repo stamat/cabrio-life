@@ -8,6 +8,8 @@ description: Just a simple boilerplate for Jekyll to get you started with your n
 
 {{ page.description }}
 
+trying to regenerate build
+
 <ul>
   {% for post in site.posts %}
     <li>
