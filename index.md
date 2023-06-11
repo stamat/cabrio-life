@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jekyll Boilerplate
-description: Just a simple boilerplate for Jekyll to get you started with your next project.
+title: Cabrio Life
+description: The adventures of white Yugo Cabrio.
 ---
 
 # {{ page.title }}

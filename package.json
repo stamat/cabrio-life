@@ -1,22 +1,21 @@
 {
-  "name": "jekyll-boilerplate",
+  "name": "cabrio-life",
   "version": "1.0.0",
   "private": true,
-  "description": "Just a simple Jekyll boilerplate to get you started with your next project.",
+  "description": "The adventures of white Yugo Cabrio.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stamat/jekyll-boilerplate.git"
+    "url": "git+https://github.com/stamat/cabrio-life.git"
   },
   "author": "stamat",
   "license": "none",
   "bugs": {
-    "url": "https://github.com/stamat/jekyll-boilerplate/issues"
+    "url": "https://github.com/stamat/cabrio-life/issues"
   },
-  "homepage": "https://github.com/stamat/jekyll-boilerplate#readme",
+  "homepage": "https://github.com/stamat/cabrio-life#readme",
   "dependencies": {
-    "@primer/css": "^20.0.0"
   }
 }
