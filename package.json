@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/stamat/cabrio-life#readme",
   "dependencies": {
-    "sulphuris": "^1.0.3"
+    "sulphuris": "^1.0.5"
   }
 }
